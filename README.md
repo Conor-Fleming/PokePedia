@@ -10,12 +10,12 @@ The application acts as a basic encyclopedia for any Pokemon. Enter the name of 
 ## Usage
 To run PokePedia locally (_assuming user is on Mac or Linux machine_)
 ```
-git clone https://github.com/Conor-Fleming/BDProjects/
+git clone https://github.com/Conor-Fleming/PokePedia/
 ```
 
 Navigate to the source directory:
 ```
-cd BDProjects/PokePedia
+cd PokePedia
 ```
 
 Create a virtual environment:
